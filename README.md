@@ -1,6 +1,17 @@
 # URLSnip — Production-Grade URL Shortener
+A full-stack URL shortener with analytics, QR codes, custom aliases, link expiration, and JWT authentication is basically a “mini Bitly”, but built by you end-to-end with both frontend + backend + database + security.
 
-A full-stack URL shortener with analytics, QR codes, custom aliases, link expiration, and JWT authentication.
+
+## 🎥 Demo Video
+
+
+
+
+https://github.com/user-attachments/assets/cd741d9a-7868-427c-a70d-cae59101cb45
+
+
+
+
 
 ---
 
