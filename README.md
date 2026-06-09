@@ -1,7 +1,6 @@
 # URLSnip — Production-Grade URL Shortener
 
-Full-stack URL shortener with analytics, QR codes, custom aliases, expiration, and JWT auth.
-**Stack:** Node.js + Express + MongoDB (Mongoose) + React + Tailwind-style CSS
+A full-stack URL shortener with analytics, QR codes, custom aliases, link expiration, and JWT authentication.
 
 ---
 
